@@ -1,3 +1,5 @@
+![Banner](ChatGPT%20Image%20perfil%20githubfavio_05.png)
+
 # 👋 Hola, soy Favio Jiménez
 
 💻 Ingeniero Informático
@@ -35,5 +37,5 @@ Soy desarrollador enfocado en crear soluciones reales para empresas:
 
 ## 📫 Contacto
 
-* WhatsApp: (tu número)
-* Email: (tu correo)
+* WhatsApp: +56971464296
+* Email: ing@nextlevelsoftwarepro.com
