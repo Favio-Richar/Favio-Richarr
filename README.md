@@ -1,4 +1,4 @@
-![Banner](ChatGPT%20Image%20perfil%20githubfavio_05.png)
+![Banner](banner.png)
 
 # 👋 Hola, soy Favio Jiménez
 
